@@ -28,6 +28,7 @@
   },
   "author": "sam wang",
   "license": "MIT",
+  "repository": "https://github.com/shuson/webpack-es6-ava-nyc-starter.git",
   "devDependencies": {
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",

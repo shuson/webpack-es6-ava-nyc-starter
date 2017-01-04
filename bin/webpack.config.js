@@ -7,8 +7,8 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, '../dist'),
-        filename: 'commonlib.js',
-        library: 'CommonLib',
+        filename: 'bundle.js',
+        library: 'Starter',
         libraryTarget: 'umd'
     },
     externals: {
